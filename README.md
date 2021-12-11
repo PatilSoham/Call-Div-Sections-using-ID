@@ -6,3 +6,4 @@ Call Div Sections using ID
 ![Gray Box Portfolio Input page](https://user-images.githubusercontent.com/93145071/145668467-9bf8205a-9b30-4182-952d-8eb533b20e2f.png)
 ![Gray Box Blog Input page](https://user-images.githubusercontent.com/93145071/145668458-548774d8-fdc4-48f6-9a08-7ea987a88393.png)
 ![Gray Box Contact Input page](https://user-images.githubusercontent.com/93145071/145668461-359300f2-329d-4eb7-9c02-d7ac132dcb77.png)
+![Gray Box output page](https://user-images.githubusercontent.com/93145071/145668696-8be2ecfb-d78e-4f07-a5fc-a2e35d815591.png)
